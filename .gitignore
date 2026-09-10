@@ -1,0 +1,5 @@
+config.json
+product.json
+report/
+__pycache__/
+*.sif
